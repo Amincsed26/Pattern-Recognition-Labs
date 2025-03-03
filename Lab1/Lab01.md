@@ -5,6 +5,7 @@ Heart failure is a critical condition often caused by cardiovascular diseases (C
 
 ## Dataset
 We use the Heart Failure Prediction dataset from Kaggle, which consists of 918 samples, 11 features, and a binary classification label indicating the occurrence of heart failure.
+[Download the dataset from Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction))
 
 ## Data Preparation
 - **Fixed Random Seed**: We use a fixed seed (42) for reproducibility.
