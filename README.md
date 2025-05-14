@@ -11,7 +11,8 @@ This repository contains implementations of core machine learning algorithms cov
 - Bagging
 - Boosting
 - Decision Trees
-
+- Convolutional Neural Networks (CNNs)
+  
 ### 🔹 Unsupervised Learning & Dimensionality Reduction
 - Principal Component Analysis (PCA)
 - K-Means Clustering
